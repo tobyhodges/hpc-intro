@@ -10,7 +10,7 @@
 # incubator: The Carpentries Incubator
 # Note that you can also use a custom carpentry type. For more info,
 # see the documentation: https://carpentries.github.io/sandpaper-docs/editing.html
-carpentry: 'cp'
+carpentry: 'hpcc'
 
 # Custom carpentry description
 # This will be used as the alt text for the logo
@@ -119,4 +119,7 @@ carpentry_description: Lesson Description
 url: 'https://carpentries-incubator.github.io/hpc-intro/'
 analytics: carpentries
 lang: en
+
+sandpaper: carpentries/sandpaper@hpcc-support
+varnish: carpentries/varnish@hpcc-support
 
